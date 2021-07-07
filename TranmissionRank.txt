@@ -1,0 +1,60 @@
+1,STANeoPTimal 20
+2,STANeoPTimal 20
+3,STANeoPTimal 20
+4,Others
+5,Others
+6,Others
+7,Others
+8,Others
+9,Others
+10,Others
+11,STA CEPHASCREEN
+12,STA CEPHASCREEN
+13,STA CEPHASCREEN
+14,Others
+15,Others
+16,STA CK Prest
+17,STA CK Prest
+18,STA CK Prest
+19,Others
+20,Others
+21,STA-Liquid Fib
+22,STA-Liquid Fib
+23,Others
+24,Others
+25,Others
+26,Others
+27,Others
+28,Others
+29,Others
+30,Others
+31,Others
+32,Others
+33,Others
+34,Others
+35,Others
+36,Others
+37,Others
+38,Others
+39,Others
+40,Others
+41,Others
+42,Others
+43,Others
+44,Others
+45,Others
+46,Others
+47,Others
+48,Others
+49,Others
+50,Others
+51,Others
+52,Others
+53,Others
+54,Others
+55,Others
+56,Others
+57,Others
+58,Others
+59,Others
+60,Others
